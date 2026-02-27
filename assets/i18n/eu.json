@@ -90,6 +90,8 @@
         "NUMBER": "Zenbakia",
         "PERU": "Perú",
         "PRIZE": "Prize",
+        "PRIZE_TABLE": "Sarien taula",
+        "ADDITIONAL_PRIZES": "Sarituak zenbaki gehigarriak",
         "PRIZE_LOST_01": "Zenbakiak",
         "PRIZE_LOST_02": "ez du irabazi saririk",
         "PRIZE_WIN_01": "Zenbakiak",

@@ -90,6 +90,8 @@
         "NUMBER": "Número",
         "PERU": "Perú",
         "PRIZE": "Premio",
+        "PRIZE_TABLE": "Tabla de premios",
+        "ADDITIONAL_PRIZES": "Números premiados adicionales",
         "PRIZE_LOST_01": "El número",
         "PRIZE_LOST_02": "no ha ganado ningún premio",
         "PRIZE_WIN_01": "El número",
